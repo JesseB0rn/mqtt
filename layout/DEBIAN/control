@@ -1,0 +1,9 @@
+Package: ch.jesseb0rn.mqtt
+Name: mqtt
+Version: 1.02
+Architecture: iphoneos-arm
+Description: mqtt for commandline
+Maintainer: jesseb0rn
+Author: jesseb0rn
+Section: System
+Tag: role::hacker
